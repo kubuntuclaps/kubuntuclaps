@@ -1,16 +1,17 @@
-### Hi there 👋
+<h3> :man: &nbsp;About me </h3>
 
-<!--
-**kubuntuclaps/kubuntuclaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 &nbsp; I'm a spanish student who loves everything related to IT.
+- 🎮 &nbsp; Roblox script developer
+- 💻 &nbsp; Learning infosec in <a href="https://www.hackthebox.com/">HackTheBox</a>.
 
-Here are some ideas to get you started:
+<h3> :rocket: &nbsp;Skills </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+
+
+<br/>
+    <a href="https://github.com/kubuntuclaps">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kubuntuclaps&bg_color=000000&title_color=fff&text_color=fff" />
+    </a>
+<br/>
