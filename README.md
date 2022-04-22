@@ -1,8 +1,6 @@
 <h3> :man: &nbsp;About me </h3>
 
-- 🧠 &nbsp; I'm a spanish student who loves everything related to IT.
-- 🎮 &nbsp; Roblox script developer
-- 💻 &nbsp; Learning infosec in <a href="https://www.hackthebox.com/">HackTheBox</a>.
+- 💻 &nbsp; Trying to learn infosec in <a href="https://www.hackthebox.com/">HackTheBox</a> and others.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
