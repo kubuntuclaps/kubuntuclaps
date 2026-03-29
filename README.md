@@ -26,6 +26,6 @@
 
 <br/>
     <a href="https://github.com/kubuntuclaps">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kubuntuclaps&bg_color=000000&title_color=fff&text_color=fff" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kubuntuclaps&bg_color=000000&title_color=fff&text_color=fff" />
     </a>
 <br/>
